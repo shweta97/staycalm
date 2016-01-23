@@ -1,2 +1,2 @@
-# uofthacks
+# staycalm
 cool stuff
